@@ -1,10 +1,11 @@
 # Sistema de préstamo de bicicletas
 ## Stakeholders
 
-- Usuarios Estudiantes: Quienes usan las bicis para ir a clase.
-- Personal Administrativo: Encargados degestionar las sanciones o multas.
-- Técnicos de Reparación: Quienes arreglan los desperfectos mecánicos.
-- Guardias de Seguridad: Encargados de vigilar que las bicicletas no salgan del campus.
+- Comunidad Estudiantil: Usuarios principales que requieren movilidad eficiente dentro del campus y acceso a la disponibilidad de bicicletas.
+- Departamento de Bienestar Universitario: Encargados de la gestión administrativa, registro de usuarios vinculados al carnet y aplicación de normativas.
+- Unidad de Soporte Técnico y Mantenimiento: Personal responsable de recibir alertas de fallas, reparar las unidades y asegurar el buen estado mecánico.
+- Cuerpo de Seguridad del Campus: Interesados en el monitoreo de la ubicación GPS de las bicicletas y la prevención de salidas no autorizadas del recinto.
+  
 ## Requisitos funcionales
 
 - RF1: El sistema debe permitir a los estudiantes registrarse vinculando su carnet universitario.
