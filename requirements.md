@@ -23,4 +23,4 @@
 - RNF4: El tiempo de carga de la disponibilidad de bicicletas no debe superar los 3 segundos.
 - RNF5: El sistema debe funcionar correctamente bajo las redes Wi-Fi oficiales del campus universitario.
 - RNF6: Los datos personales de los estudiantes deben estar protegidos mediante protocolos de cifrado estándar.
-RNF7: El sistema debe registrar la ubicación GPS exacta de la bicicleta cada vez que sea bloqueada o desbloqueada.
+- RNF7: El sistema debe registrar la ubicación GPS exacta de la bicicleta cada vez que sea bloqueada o desbloqueada.
